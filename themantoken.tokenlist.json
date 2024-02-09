@@ -1,14 +1,14 @@
 {
   "name": "The Man Token Partner Tokens List",
-  "timestamp": "2022-01-26T11:45:09Z",
+  "timestamp": "2024-02-09T07:18:45.276Z",
   "version": {
-    "major": 5,
-    "minor": 0,
+    "major": 1,
+    "minor": 1,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "hhttps://65c5733282d16f3771666e8f--monumental-donut-cd05a8.netlify.app/assets/mantoken.f74fb3d9.png",
-  "keywords": ["pancake", "default"],
+  "logoURI": "https://65c5733282d16f3771666e8f--monumental-donut-cd05a8.netlify.app/assets/mantoken.f74fb3d9.png",
+  "keywords": ["man", "token", "bsc", "default"],
   "tokens": [
     {
       "name": "Wrapped BNB",
