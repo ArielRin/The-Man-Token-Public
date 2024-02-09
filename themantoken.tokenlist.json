@@ -89,14 +89,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://aaaaa--superb-sopapillas-4e4a61.netlify.app/images/tokens/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe.png"
-    },
-    {
-      "name": "BUSD Token",
-      "symbol": "BUSD",
-      "address": "0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://aaaaa--superb-sopapillas-4e4a61.netlify.app/images/tokens/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
     }
   ]
 }
