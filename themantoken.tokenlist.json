@@ -81,14 +81,6 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://aaaaa--superb-sopapillas-4e4a61.netlify.app/images/tokens/0x30C628a85E13CD9dea174b3361c6CA267F78a1D4.png"
-    },
-    {
-      "name": "Binance-Peg Elrond Token",
-      "symbol": "EGLD",
-      "address": "0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe",
-      "chainId": 56,
-      "decimals": 18,
-      "logoURI": "https://aaaaa--superb-sopapillas-4e4a61.netlify.app/images/tokens/0xbF7c81FFF98BbE61B40Ed186e4AfD6DDd01337fe.png"
     }
   ]
 }
